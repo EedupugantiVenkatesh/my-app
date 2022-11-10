@@ -1,0 +1,45 @@
+    .register {
+        padding: 8px 18px;
+        margin: 10px 5px;
+        background: lightblue;
+    }
+    
+    .Login {
+        padding: 8px 27px;
+        margin: 10px 5px;
+        background: lightblue;
+    }
+    
+    form {
+        border: 5px solid #f1f1f1;
+    }
+    
+    input[type=text],
+    input[type=password] {
+        width: 100%;
+        margin: 8px 0;
+        padding: 12px 20px;
+        display: inline-block;
+        border: 2px solid lightblue;
+        box-sizing: border-box;
+    }
+    
+    .login {
+        text-transform: uppercase;
+        font-size: 50px;
+    }
+    
+    .container {
+        width: 320px;
+        padding: 10px lightblue;
+        border: 5px;
+        margin: 20px;
+    }
+    
+    button:hover {
+        opacity: 0.7;
+    }
+    
+    .top {
+        border-bottom: 20px;
+    }
